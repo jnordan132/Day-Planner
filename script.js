@@ -1,0 +1,1 @@
+var currentDayEl = document.getElementById("currentDay");
