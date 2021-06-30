@@ -19,3 +19,6 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 ## Screenshots & Links
+https://jnordan132.github.io/Day-Planner/
+https://github.com/jnordan132/Day-Planner/
+![Day-Planner](https://user-images.githubusercontent.com/81433664/124000285-66a54000-d9a1-11eb-808e-0c6008f30608.png)
