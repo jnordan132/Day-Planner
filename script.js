@@ -34,7 +34,7 @@ $(document).ready(function() {
     });
 
     // Replacing textareas with 'global' saved for that row
-    // (/[""]+/g, "") uses Global Modifier to save everything that was previously saved
+    // (/[""]+/g, "") uses Global Modifier to display everything that was previously saved
     $("#9 textarea").val(localStorage.getItem("9").replace(/[""]+/g, ""));
     $("#10 textarea").val(localStorage.getItem("10").replace(/[""]+/g, ""));
     $("#11 textarea").val(localStorage.getItem("11").replace(/[""]+/g, ""));
